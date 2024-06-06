@@ -1,0 +1,14 @@
+header{
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+form{
+    align-items: center;
+}
+
+.submitBtn{
+    width: 100px;
+    height: 40px;
+}
